@@ -6,6 +6,7 @@
 
 
 
+## Preview - https://sonupaikrao.github.io/Fooddelivery-/
 A `HTML, CSS, JAVASCRIPT` Project. Made with ♥ by the Vaibhav Paikrao. There will be 6 pages in the website (HomePage, Speciality , Popular , Gallery , Review , Order ). In this project we gonna learn how we can create a website using simple `HTML, CSS & JAVASCRIPT`. The main purpose of the project is to get more used to with HTML, CSS & JAVASCRIPT . Although we used a few lines of React fm in the project for necessary cases. Later on, in this project, we gonna learn how we can deploy this site using `Netlify`. Also, we gonna learn the process from the zero to end and make the website ready for live production.
 
 ## What we are going to learn
